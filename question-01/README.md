@@ -1,5 +1,7 @@
 # Question 01:  Pagination
 
+![Pagination](public/images/pagination.PNG)
+
 ## Overall Implementation Summary
 - The following React concepts were used
     1. Props and States
