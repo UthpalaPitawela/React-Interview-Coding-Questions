@@ -10,4 +10,9 @@
     6. Implemented async functions inside useEffect hook.
 - Used react-bootatrap pagination to implement pagination UI components
 - Used the [{JSON} Placeholder free API endpoint](https://jsonplaceholder.typicode.com/) to retrieve user details.
+
+## How to run 
+
+1. ``` npm install ```
+2. ``` npm start ```
    
