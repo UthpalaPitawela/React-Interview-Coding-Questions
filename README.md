@@ -1,6 +1,6 @@
 # React Interview Coding Questions
 
-This repo contains all the questions posted by Sai Krishna Nangunuri in his LinkedIn profile. For more exercises, and knowledge follow his [LinkedIn Profile](https://www.linkedin.com/in/saikrishnanangunuri/).
+This repo contains all the questions posted by __Sai Krishna Nangunuri__ in his LinkedIn profile. For more exercises, and knowledge follow his [LinkedIn Profile](https://www.linkedin.com/in/saikrishnanangunuri/).
 
 ## Question 01:  Pagination
 
