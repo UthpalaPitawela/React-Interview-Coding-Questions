@@ -1,6 +1,6 @@
 # Question 01:  Pagination
 
-![Pagination](public/images/pagination.PNG)
+![Pagination](public/images/pagination_implementation.PNG)
 
 ## Overall Implementation Summary
 - The following React concepts were used
