@@ -1,6 +1,6 @@
 # Question 01:  Pagination
 
-# Overall Implementation Summary
+## Overall Implementation Summary
 - The following React concepts were used
     1. Props and States
     2. React Fragments
