@@ -1,0 +1,16 @@
+.user {
+    margin-top: 2%;
+    margin-left:40%;
+    .user-field{
+        display: flex;
+        flex-direction: row;
+        margin-left: 10%;
+    
+        .title {
+            margin-right: 1%;;
+        }
+    }
+    .ruler {
+        width:40%
+    }
+}
